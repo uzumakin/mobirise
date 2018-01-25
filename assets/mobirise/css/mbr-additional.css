@@ -1366,6 +1366,40 @@ body {
 .cid-qHEtXzMBQx {
   background-image: url("../../../assets/images/jumbotron.jpg");
 }
+.cid-qHLbf0L32m {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-720x1080.jpg");
+}
+.cid-qHLbf0L32m h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-qHLbf0L32m .wrap {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+.cid-qHLbf0L32m .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qHLbf0L32m .card {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  word-wrap: break-word;
+}
+.cid-qHLbf0L32m ellipse {
+  stroke: rgba(206, 206, 206, 0.4);
+}
+.cid-qHLbf0L32m path {
+  stroke: #149dcc;
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-qHLbf0L32m .card {
+    -webkit-flex-basis: 33%;
+    flex-basis: 33%;
+  }
+}
 .cid-qHFiMDRHc7 {
   padding-top: 60px;
   padding-bottom: 60px;
